@@ -1,0 +1,5 @@
+com\beskilled\util\DBConnection.class
+com\beskilled\view\Main.class
+com\beskilled\controller\StudentController.class
+com\beskilled\model\Student.class
+com\beskilled\dao\StudentDAO.class
